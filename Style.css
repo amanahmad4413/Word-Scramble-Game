@@ -54,7 +54,7 @@ input {
   width: 40%;
   padding: 15px 0;
   text-align: center;
-  text-transform: none; 
+  text-transform: lowercase; 
   border-radius: 25px;
   outline: none;
   border: none;
